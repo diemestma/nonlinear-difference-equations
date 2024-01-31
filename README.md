@@ -5,4 +5,4 @@ Particularly, the function, which you can fin in [code.R](/code.R), performs the
 - calculate the equilibrium points and identify whether they are stable (locally asymptotically stable) or unstable
 - graph the phase diagram and represent the trajectories, based on initial conditions
 
-An example of the expected output of this Rstudio function can be found in [documento.pdf](/documento.pdf).
+An example of the expected output of this Rstudio function can be found in [documento.pdf](/documento.pdf) (in Spanish).
